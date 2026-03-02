@@ -1,0 +1,4 @@
+disease,case_count,avg_improvement_rate,avg_fim_gain
+Hip Fracture,2,0.6333333333333333,30.0
+Pneumonia,1,0.18181818181818182,10.0
+Stroke,3,0.7738095238095237,26.666666666666668
