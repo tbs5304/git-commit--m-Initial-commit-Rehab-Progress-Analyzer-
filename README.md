@@ -15,6 +15,7 @@
 ```bash
 pip install -r requirements.txt
 python rehab_progress_analyzer.py
+
 ## 背景
 医療現場では患者進捗データの集計が手作業で行われることが多く、
 分析や意思決定に時間を要する課題があります。
